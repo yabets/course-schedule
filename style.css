@@ -1,0 +1,27 @@
+body {
+  margin: 50px;
+  font-size: 22px;;
+}
+
+table {
+  padding: 10px;
+}
+
+caption {
+  font-size: 27px;
+  margin-top: 40px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+th {
+  font-weight: bold;
+  text-align: left;
+  padding-right: 20px;
+}
+
+td {
+  padding-right: 20px;
+  padding-top: 10px;
+}
